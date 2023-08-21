@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "dart.previewFlutterUiGuides": true,
+    "dart.openDevTools": "flutter",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "emmet.excludeLanguages": [
+        "markdown", "jsx"
+    ],
+    "window.zoomLevel": 2,
+
+}
